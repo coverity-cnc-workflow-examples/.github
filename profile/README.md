@@ -15,4 +15,4 @@ Live, executable samples using the Black Duck Security Scan Action with Coverity
                                                                                                                                                                                                                                          
 ## Documentation                                                                                                                                                                                                                         
                                                                                                                                                                                                                                          
-For detailed configuration options, visit the [Coverity GitHub Integration Documentation](https://documentation.blackduck.com/category/cicd_integrations). 
+For detailed configuration options, visit the [Coverity GitHub Integration Documentation](https://documentation.blackduck.com/bundle/bridge/page/documentation/c_github-coverity.html). 
